@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Gabryel, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio no EESC. Sou apaixonado por tecnologia 
+Me chamo João Gabryel, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio no EESC. Sou apaixonado por tecnologia.
 
 <p align="left">
     <a href="https://github.com/wibice">
@@ -57,32 +57,6 @@ Me chamo João Gabryel, tenho 19 anos e sou natural de Minas Gerais. Concluí o 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-
-
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
 
 <img 
     align="left" 
@@ -112,7 +86,7 @@ Me chamo João Gabryel, tenho 19 anos e sou natural de Minas Gerais. Concluí o 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=wibice&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
