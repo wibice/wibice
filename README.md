@@ -80,14 +80,7 @@ Me chamo João Gabryel, tenho 19 anos e sou natural de Minas Gerais. Concluí o 
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=wibice&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wibice&show_icons=true)
 
 <img 
       align="left" 
